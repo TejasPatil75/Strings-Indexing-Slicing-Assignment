@@ -1,0 +1,3 @@
+In Python, single quotes (') or double quotes (") can be used to denote string literals. When you assign 'a' to the variable x, Python interprets it as a string literal.
+
+In this case, the value 'a' is enclosed within single quotes, indicating that it's a string. Even though the string consists of only one character, it's still considered a string in Python.

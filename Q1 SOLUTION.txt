@@ -1,0 +1,1 @@
+To store a single quote (') as a string in a variable, you can use either double quotes (") or triple quotes (''' or """). Using double quotes allows you to include single quotes within the string without escaping them, and vice versa.
